@@ -1,0 +1,124 @@
+[
+  {
+    "doc_id": "MSMARCO_XI_001",
+    "title": "Photosynthesis and Energy Conversion in Plants",
+    "topic": "Biology & Botany",
+    "language": "en",
+    "content": "Photosynthesis is the biological process by which green plants, algae, and certain bacteria convert light energy, usually from the Sun, into chemical energy in the form of glucose or other sugars. The overall chemical equation is 6CO2 + 6H2O + light -> C6H12O6 + 6O2. Chlorophyll, the green pigment found inside chloroplasts, absorbs blue and red wavelengths while reflecting green. During the light-dependent reactions occurring in the thylakoid membranes, water is split through photolysis, generating ATP and NADPH while releasing oxygen gas as a byproduct. In the light-independent Calvin cycle within the stroma, carbon dioxide is fixed into carbohydrates using ATP and NADPH.",
+    "section_headers": [
+      "Overview",
+      "Light Reactions",
+      "Calvin Cycle"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_002",
+    "title": "Photosynthesis (Hindi Translation - प्रकाश संश्लेषण)",
+    "topic": "Biology & Botany",
+    "language": "hi",
+    "content": "प्रकाश संश्लेषण (Photosynthesis) वह जैव-रासायनिक प्रक्रिया है जिसके द्वारा हरे पौधे सूर्य के प्रकाश की ऊर्जा का उपयोग करके कार्बन डाइऑक्साइड और पानी से ग्लूकोज और ऑक्सीजन बनाते हैं। इसका रासायनिक समीकरण 6CO2 + 6H2O + प्रकाश -> C6H12O6 + 6O2 है। पौधों की पत्तियों में मौजूद क्लोरोफिल सूर्य के प्रकाश को अवशोषित करता है। इस प्रक्रिया में ऑक्सीजन वातावरण में मुक्त होती है जो सभी जीवों के जीवन के लिए आवश्यक है। थायलाकोइड झिल्ली में जल का विखंडन होता है और एटीपी उत्पन्न होता है।",
+    "section_headers": [
+      "परिचय",
+      "रासायनिक समीकरण",
+      "महत्व"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_003",
+    "title": "History of India and Goa Liberation",
+    "topic": "Indian History & Heritage",
+    "language": "en",
+    "content": "The history of India spans ancient civilizations such as the Indus Valley civilization and Maurya Empire to medieval kingdoms and the freedom struggle against colonial rule. In South-Western India, Goa was ruled by the Kadambas and Vijayanagara Empire before being captured by the Portuguese admiral Afonso de Albuquerque in 1510. Portuguese colonial rule in Goa lasted 451 years until December 19, 1961, when the Indian Armed Forces executed Operation Vijay, liberating Goa, Daman, and Diu and integrating them into the Republic of India. Goa officially became the 25th state of India on May 30, 1987, with Panaji as its state capital and Vasco da Gama as its largest city.",
+    "section_headers": [
+      "Ancient & Medieval India",
+      "Portuguese Colonization",
+      "Operation Vijay 1961",
+      "Statehood"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_004",
+    "title": "Indian History (Hindi Translation - भारत और गोवा का इतिहास)",
+    "topic": "Indian History & Heritage",
+    "language": "hi",
+    "content": "भारत का इतिहास प्राचीन सिंधु घाटी सभ्यता, वैदिक काल, मौर्य और गुप्त साम्राज्यों से लेकर स्वतंत्रता संग्राम तक फैला हुआ है। गोवा भारत के दक्षिण-पश्चिमी तट पर स्थित एक ऐतिहासिक राज्य है। 1510 में पुर्तगाली सेनापति अल्फोंसो डी अल्बुकर्क ने बीजापुर के सुल्तान को हराकर गोवा पर कब्जा किया था। पुर्तगालियों ने गोवा पर 451 वर्षों तक शासन किया। 19 दिसंबर 1961 को भारतीय सेना के ऑपरेशन विजय द्वारा गोवा को पुर्तगाली शासन से मुक्त कराया गया। 30 मई 1987 को गोवा को भारत का 25वां राज्य बनाया गया। पणजी गोवा की राजधानी है।",
+    "section_headers": [
+      "प्राचीन भारत",
+      "पुर्तगाली शासन",
+      "ऑपरेशन विजय",
+      "राज्य स्थापना"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_005",
+    "title": "Quantum Computing and Superposition Principles",
+    "topic": "Physics & Computing",
+    "language": "en",
+    "content": "Quantum computing leverages the fundamental principles of quantum mechanics, namely superposition and entanglement, to perform complex computational calculations exponentially faster than classical Turing machines for specific problem classes. Unlike classical bits that exist in a binary state of either 0 or 1, quantum bits or qubits exist in a linear combination of states represented on the Bloch sphere. Quantum algorithms such as Shor's algorithm solve prime factorization in polynomial time, while Grover's algorithm provides quadratic speedup for unstructured database searching.",
+    "section_headers": [
+      "Quantum Principles",
+      "Qubits and Bloch Sphere",
+      "Quantum Algorithms"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_006",
+    "title": "Tuberculosis Symptoms and Medical Diagnosis",
+    "topic": "Medicine & Health",
+    "language": "en",
+    "content": "Tuberculosis (TB) is a contagious bacterial infectious disease caused primarily by Mycobacterium tuberculosis. It most commonly affects the lungs (pulmonary TB) but can spread to other organs including lymph nodes, kidneys, and spine (extrapulmonary TB). Typical clinical symptoms include persistent chronic cough lasting more than 3 weeks, hemoptysis (coughing up blood), unexplained weight loss, night sweats, fatigue, and low-grade fever. Diagnostic modalities include sputum smear microscopy, GeneXpert NAAT PCR assays, chest radiography, and Mantoux tuberculin skin testing.",
+    "section_headers": [
+      "Etiology",
+      "Clinical Manifestations",
+      "Diagnostic Methods"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_007",
+    "title": "ISRO Chandrayaan-3 Moon Landing Mission",
+    "topic": "Space Exploration",
+    "language": "en",
+    "content": "Chandrayaan-3 was the third lunar exploration mission developed by the Indian Space Research Organisation (ISRO). Launched on July 14, 2023, from the Satish Dhawan Space Centre in Sriharikota using the LVM3-M4 launch vehicle, the mission successfully achieved a soft landing near the lunar south pole on August 23, 2023. The mission comprised the Vikram lander and the Pragyan rover equipped with scientific payloads like ChaSTE, ILSA, and APXS to analyze lunar soil thermal conductivity, seismic activity, and elemental composition, making India the fourth country to soft-land on the Moon and the first near the lunar south pole.",
+    "section_headers": [
+      "Mission Overview",
+      "Landing Milestone",
+      "Scientific Payloads"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_008",
+    "title": "Transformer Architecture in Large Language Models",
+    "topic": "Artificial Intelligence",
+    "language": "en",
+    "content": "The Transformer architecture, introduced by Vaswani et al. in the seminal 2017 paper 'Attention Is All You Need', replaced recurrent neural networks (RNNs) and LSTMs by utilizing multi-head self-attention mechanisms. Self-attention calculates query-key dot products scaled by the square root of key dimension d_k to assign attention weights across token sequences in parallel. Modern LLMs like GPT, Llama, and Gemini rely on decoder-only transformer stacks with Rotary Position Embeddings (RoPE), SwiGLU activations, and FlashAttention to achieve high throughput and long context processing.",
+    "section_headers": [
+      "Architecture Innovation",
+      "Self-Attention Mechanism",
+      "Modern LLM Optimizations"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_009",
+    "title": "Unified Payments Interface (UPI) Architecture",
+    "topic": "Financial Technology",
+    "language": "en",
+    "content": "Unified Payments Interface (UPI) is an instant real-time payment system developed by the National Payments Corporation of India (NPCI) and regulated by the Reserve Bank of India (RBI). UPI facilitates peer-to-peer (P2P) and person-to-merchant (P2M) mobile transactions through Virtual Payment Addresses (VPA) or UPI IDs without exposing bank account numbers or IFSC codes. Built upon the Immediate Payment Service (IMPS) infrastructure with 2-factor authentication, UPI handles over 10 billion transactions monthly with sub-second settlement.",
+    "section_headers": [
+      "NPCI Overview",
+      "Virtual Payment Address",
+      "Security Architecture"
+    ]
+  },
+  {
+    "doc_id": "MSMARCO_XI_010",
+    "title": "Dengue Fever Transmission and Prevention",
+    "topic": "Medicine & Health",
+    "language": "en",
+    "content": "Dengue fever is a mosquito-borne viral infection caused by four distinct serotypes of the dengue virus (DENV-1 to DENV-4), belonging to the Flaviviridae family. It is transmitted to humans through the bites of infected female Aedes aegypti and Aedes albopictus mosquitoes, which predominantly bite during daytime. Symptoms include high fever (40C/104F), retro-orbital headache, severe joint and muscular pain (breakbone fever), skin rash, and thrombocytopenia. Severe dengue can cause plasma leakage leading to shock or hemorrhage.",
+    "section_headers": [
+      "Virus & Vector",
+      "Symptoms & Pathology",
+      "Management & Prevention"
+    ]
+  }
+]
